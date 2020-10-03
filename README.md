@@ -1,5 +1,5 @@
 # Practical Scripting with Python
-## UNO Summer Techademy
+## Python Class 4
 
 ## Objectives:
 - Demonstrate Turtle Graphics
@@ -24,7 +24,7 @@ What can you do with a turtle? Any of these methods work:
 
 | METHOD |PARAMETER |	DESCRIPTION |
 | --- | --- | --- |
-|Turtle()	| None | Creates and returns a new tutrle object|
+|Turtle()	| None | Creates and returns a new turtle object|
 |forward() |	amount | Moves the turtle forward by the specified amount|
 |backward() | amount | Moves the turtle backward by the specified amount|
 |right() |	angle |	Turns the turtle clockwise|
